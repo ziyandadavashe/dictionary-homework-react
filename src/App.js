@@ -13,7 +13,7 @@ function App() {
           <p>
             Coded by Ziyanda Davashe,{" "}
             <a
-              href="https://github.com/liflatt/dictionary-project"
+              href="https://github.com/ziyandadavashe"
               target="_blank"
               rel="noreferrer"
             >
