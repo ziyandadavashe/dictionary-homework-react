@@ -13,7 +13,7 @@ function App() {
           <p>
             Coded by Ziyanda Davashe,{" "}
             <a
-              href="https://github.com/ziyandadavashe/dictionary-homework-react"
+              href="https://github.com/liflatt/dictionary-project"
               target="_blank"
               rel="noreferrer"
             >
@@ -21,7 +21,7 @@ function App() {
             </a>
             , and{" "}
             <a
-              href="https://prismatic-trifle-c87607.netlify.app/"
+              href="https://lf-dictionary-project.netlify.app/"
               target="_blank"
               rel="noreferrer"
             >
