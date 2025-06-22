@@ -21,7 +21,7 @@ function App() {
             </a>
             , and{" "}
             <a
-              href="https://lf-dictionary-project.netlify.app/"
+              href="https://prismatic-trifle-c87607.netlify.app/"
               target="_blank"
               rel="noreferrer"
             >
