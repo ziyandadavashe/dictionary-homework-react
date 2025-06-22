@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  background: linear-gradient(135deg, #eaf4ec, #d8e8dc, #f3f9f6, #dbeed9);
+  font-family: "Inter", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
