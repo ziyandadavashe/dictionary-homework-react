@@ -5,7 +5,7 @@
 }
 
 .App body {
-  background: linear-gradient(135deg, #e3fdfd, #d0f4de, #fef9ef, #e0f7fa);
+  background: linear-gradient(135deg, #e3fcfd, #d0f4de, #fef9ef, #e0f7fa);
   margin: 0;
   font-family: sans-serif;
 }
@@ -14,7 +14,7 @@
 h2,
 h3 {
   font-family: "Inter", sans-serif;
-  color: #3c5d49;
+  color: rgb(59, 59, 105);
 }
 .App footer {
   color: #7d8b7f;
